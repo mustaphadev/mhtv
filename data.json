@@ -1,0 +1,14 @@
+[
+  {
+    "id": 1,
+    "name": "radio 1",
+    "logoUrl": "https://radio1.com",
+    "streamUrl": "https://radio1.com"
+  },
+  {
+    "id": 2,
+    "name": "radio 2",
+    "logoUrl": "https://radio2.com",
+    "streamUrl": "https://radio2.com"
+  }
+]
