@@ -1,56 +1,56 @@
 {
-	"settings":{
-		"baseUrl":"https://raw.githubusercontent.com/mustaphadev/mhtv/main",
-	},
-	"list":[
-			  {
-				"id": 1,
-				"category":"Maroc",
-				"name": "Aloula",
-				"logoUrl": "/logos/aloula.png",
-				"streamUrl": "https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/al_aoula_inter/hls_snrt/al_aoula_inter-avc1_400000=4-mp4a_130400_qad=1.m3u8"
-			  },
-			  {
-				"id": 2,
-				"category":"Maroc",
-				"name": "Tamazight",
-				"logoUrl": "/logos/tamazight.png",
-				"streamUrl": "https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/tamazight_tv8_snrt/hls_snrt/tamazight_tv8_snrt-avc1_400000=2-mp4a_130400_qad=1.m3u8"
-			  },
-			  {
-				"id": 3,
-				"category":"Maroc",
-				"name": "Arryadia",
-				"logoUrl": "/logos/arryadia.png",
-				"streamUrl": "https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/arriadia/hls_snrt/arriadia-avc1_1500000=4-mp4a_130400_qad=1.m3u8"
-			  },
-			  {
-				"id": 4,
-				"category":"Maroc",
-				"name": "Almaghribia",
-				"logoUrl": "/logos/almaghribia.png",
-				"streamUrl": "https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/al_maghribia_snrt/hls_snrt/al_maghribia_snrt-avc1_400000=2-mp4a_130400_qad=1.m3u8"
-			  },
-			  {
-				"id": 5,
-				"category":"Maroc",
-				"name": "Assadissa",
-				"logoUrl": "/logos/assadissa.png",
-				"streamUrl": "https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/assadissa/hls_snrt/assadissa-avc1_400000=4-mp4a_130400_qad=1.m3u8"
-			  },
-			  {
-				"id": 6,
-				"category":"Maroc",
-				"name": "Athaqafia",
-				"logoUrl": "/logos/athaqafia.png",
-				"streamUrl": "https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/arrabiaa/hls_snrt/arrabiaa-avc1_1500000=4-mp4a_130400_qad=1.m3u8"
-			  },
-			  {
-				"id": 7,
-				"category":"Maroc",
-				"name": "Laayoun",
-				"logoUrl": "/logos/laayoun.png",
-				"streamUrl": "https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/al_aoula_laayoune/hls_snrt/al_aoula_laayoune-avc1_400000=2-mp4a_130400_qad=1.m3u8"
-			  },
-			]
+  "settings":{
+    "baseUrl":"https://raw.githubusercontent.com/mustaphadev/mhtv/main"
+  },
+  "list":[
+    {
+      "id": 1,
+      "category":"Maroc",
+      "name": "Aloula",
+      "logoUrl": "/logos/aloula.png",
+      "streamUrl": "https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/al_aoula_inter/hls_snrt/al_aoula_inter-avc1_400000=4-mp4a_130400_qad=1.m3u8"
+    },
+    {
+      "id": 2,
+      "category":"Maroc",
+      "name": "Tamazight",
+      "logoUrl": "/logos/tamazight.png",
+      "streamUrl": "https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/tamazight_tv8_snrt/hls_snrt/tamazight_tv8_snrt-avc1_400000=2-mp4a_130400_qad=1.m3u8"
+    },
+    {
+      "id": 3,
+      "category":"Maroc",
+      "name": "Arryadia",
+      "logoUrl": "/logos/arryadia.png",
+      "streamUrl": "https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/arriadia/hls_snrt/arriadia-avc1_1500000=4-mp4a_130400_qad=1.m3u8"
+    },
+    {
+      "id": 4,
+      "category":"Maroc",
+      "name": "Almaghribia",
+      "logoUrl": "/logos/almaghribia.png",
+      "streamUrl": "https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/al_maghribia_snrt/hls_snrt/al_maghribia_snrt-avc1_400000=2-mp4a_130400_qad=1.m3u8"
+    },
+    {
+      "id": 5,
+      "category":"Maroc",
+      "name": "Assadissa",
+      "logoUrl": "/logos/assadissa.png",
+      "streamUrl": "https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/assadissa/hls_snrt/assadissa-avc1_400000=4-mp4a_130400_qad=1.m3u8"
+    },
+    {
+      "id": 6,
+      "category":"Maroc",
+      "name": "Athaqafia",
+      "logoUrl": "/logos/athaqafia.png",
+      "streamUrl": "https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/arrabiaa/hls_snrt/arrabiaa-avc1_1500000=4-mp4a_130400_qad=1.m3u8"
+    },
+    {
+      "id": 7,
+      "category":"Maroc",
+      "name": "Laayoun",
+      "logoUrl": "/logos/laayoun.png",
+      "streamUrl": "https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/al_aoula_laayoune/hls_snrt/al_aoula_laayoune-avc1_400000=2-mp4a_130400_qad=1.m3u8"
+    }
+  ]
 }
