@@ -51,6 +51,27 @@
       "name": "Laayoun",
       "logoUrl": "/logos/laayoun.png",
       "streamUrl": "https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/al_aoula_laayoune/hls_snrt/al_aoula_laayoune-avc1_400000=2-mp4a_130400_qad=1.m3u8"
+    },
+    {
+      "id": 8,
+      "category":"Maroc",
+      "name": "2M",
+      "logoUrl": "/logos/2m.png",
+      "streamUrl": "https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/2m_monde/hls_video_ts_tuhawxpiemz257adfc/2m_monde-avc1_1500000=4-mp4a_130400_qad=1.m3u8"
+    },
+    {
+      "id": 9,
+      "category":"Maroc",
+      "name": "Medi1",
+      "logoUrl": "/logos/medi1.png",
+      "streamUrl": "https://streaming1.medi1tv.com/live/smil:medi1ar.smil/chunklist_w83700810_b2256000_DVR_slar.m3u8"
+    },
+    {
+      "id": 10,
+      "category":"Maroc",
+      "name": "M24",
+      "logoUrl": "/logos/m24.png",
+      "streamUrl": "https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1703299049/ei/ifOFZc7rCbaKvdIP2OaakAo/ip/93.19.13.45/id/joYz9DAZkPg.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/UWF9f3phnKP0ag_FxxDOwS5noasi39SoF3r7ICgVPA/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AJfQdSswRQIhAJ9HzVSu45ltsB7Ckg5XrC_D47v6_L4nlApw27XjAVlVAiAX0r8ivG-pa_GmR47xNvrf9_VbMcjaInJr_fDqt_vjlA%3D%3D/file/index.m3u8"
     }
   ]
 }
