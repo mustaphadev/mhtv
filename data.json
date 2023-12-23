@@ -1,6 +1,29 @@
 {
   "settings":{
-    "baseUrl":"https://raw.githubusercontent.com/mustaphadev/mhtv/main"
+    "baseUrl":"https://raw.githubusercontent.com/mustaphadev/mhtv/main",
+    "contentBlockerFilter": [
+      ".*.ad.360yield.com/.*",
+      ".*.ib.adnxs.com/.*",
+      ".*.hbopenbid.pubmatic.com/.*",
+      ".*.tlx.3lift.com/.*",
+      ".*.btlr.sharethrough.com/.*",
+      ".*.bidder.criteo.com/.*",
+      ".*.adservice.google/.*",
+      ".*.doubleclick.net/.*",
+      ".*.ads.pubmatic.com/.*",
+      ".*.googlesyndication.com/.*",
+      ".*.google-analytics.com/.*",
+      ".*.adservice.google.*/.*",
+      ".*.adbrite.com/.*",
+      ".*.exponential.com/.*",
+      ".*.quantserve.com/.*",
+      ".*.scorecardresearch.com/.*",
+      ".*.zedo.com/.*",
+      ".*.adsafeprotected.com/.*",
+      ".*.teads.tv/.*",
+      ".*.outbrain.com/.*"
+    ],
+    "cssFilter" : ".banner, .banners, .ads, .ad, .advert"
   },
   "list":[
     {
@@ -8,112 +31,128 @@
       "category":"Maroc",
       "name": "Aloula",
       "logoUrl": "/logos/aloula.png",
-      "streamUrl": "https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/al_aoula_inter/hls_snrt/al_aoula_inter-avc1_400000=4-mp4a_130400_qad=1.m3u8"
+      "streamUrl": "https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/al_aoula_inter/hls_snrt/al_aoula_inter-avc1_400000=4-mp4a_130400_qad=1.m3u8",
+      "type":0
     },
     {
       "id": 2,
       "category":"Maroc",
       "name": "Tamazight",
       "logoUrl": "/logos/tamazight.png",
-      "streamUrl": "https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/tamazight_tv8_snrt/hls_snrt/tamazight_tv8_snrt-avc1_400000=2-mp4a_130400_qad=1.m3u8"
+      "streamUrl": "https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/tamazight_tv8_snrt/hls_snrt/tamazight_tv8_snrt-avc1_400000=2-mp4a_130400_qad=1.m3u8",
+      "type":0
     },
     {
       "id": 3,
       "category":"Maroc",
       "name": "Arryadia",
       "logoUrl": "/logos/arryadia.png",
-      "streamUrl": "https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/arriadia/hls_snrt/arriadia-avc1_1500000=4-mp4a_130400_qad=1.m3u8"
+      "streamUrl": "https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/arriadia/hls_snrt/arriadia-avc1_1500000=4-mp4a_130400_qad=1.m3u8",
+      "type":0
     },
     {
       "id": 4,
       "category":"Maroc",
       "name": "Almaghribia",
       "logoUrl": "/logos/almaghribia.png",
-      "streamUrl": "https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/al_maghribia_snrt/hls_snrt/al_maghribia_snrt-avc1_400000=2-mp4a_130400_qad=1.m3u8"
+      "streamUrl": "https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/al_maghribia_snrt/hls_snrt/al_maghribia_snrt-avc1_400000=2-mp4a_130400_qad=1.m3u8",
+      "type":0
     },
     {
       "id": 5,
       "category":"Maroc",
       "name": "Assadissa",
       "logoUrl": "/logos/assadissa.png",
-      "streamUrl": "https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/assadissa/hls_snrt/assadissa-avc1_400000=4-mp4a_130400_qad=1.m3u8"
+      "streamUrl": "https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/assadissa/hls_snrt/assadissa-avc1_400000=4-mp4a_130400_qad=1.m3u8",
+      "type":0
     },
     {
       "id": 6,
       "category":"Maroc",
       "name": "Athaqafia",
       "logoUrl": "/logos/athaqafia.png",
-      "streamUrl": "https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/arrabiaa/hls_snrt/arrabiaa-avc1_1500000=4-mp4a_130400_qad=1.m3u8"
+      "streamUrl": "https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/arrabiaa/hls_snrt/arrabiaa-avc1_1500000=4-mp4a_130400_qad=1.m3u8",
+      "type":0
     },
     {
       "id": 7,
       "category":"Maroc",
       "name": "Laayoun",
       "logoUrl": "/logos/laayoun.png",
-      "streamUrl": "https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/al_aoula_laayoune/hls_snrt/al_aoula_laayoune-avc1_400000=2-mp4a_130400_qad=1.m3u8"
+      "streamUrl": "https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/al_aoula_laayoune/hls_snrt/al_aoula_laayoune-avc1_400000=2-mp4a_130400_qad=1.m3u8",
+      "type":0
     },
     {
       "id": 8,
       "category":"Maroc",
       "name": "2M",
       "logoUrl": "/logos/2m.png",
-      "streamUrl": "https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/2m_monde/hls_video_ts_tuhawxpiemz257adfc/2m_monde-avc1_1500000=4-mp4a_130400_qad=1.m3u8"
+      "streamUrl": "https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/2m_monde/hls_video_ts_tuhawxpiemz257adfc/2m_monde-avc1_1500000=4-mp4a_130400_qad=1.m3u8",
+      "type":0
     },
     {
       "id": 9,
       "category":"Maroc",
       "name": "Medi1",
       "logoUrl": "/logos/medi1.png",
-      "streamUrl": "https://streaming1.medi1tv.com/live/smil:medi1ar.smil/chunklist_w83700810_b2256000_DVR_slar.m3u8"
+      "streamUrl": "https://streaming1.medi1tv.com/live/smil:medi1ar.smil/chunklist_w83700810_b2256000_DVR_slar.m3u8",
+      "type":0
     },
     {
       "id": 10,
       "category":"Maroc",
       "name": "M24",
       "logoUrl": "/logos/m24.png",
-      "streamUrl": "https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1703299049/ei/ifOFZc7rCbaKvdIP2OaakAo/ip/93.19.13.45/id/joYz9DAZkPg.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/UWF9f3phnKP0ag_FxxDOwS5noasi39SoF3r7ICgVPA/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AJfQdSswRQIhAJ9HzVSu45ltsB7Ckg5XrC_D47v6_L4nlApw27XjAVlVAiAX0r8ivG-pa_GmR47xNvrf9_VbMcjaInJr_fDqt_vjlA%3D%3D/file/index.m3u8"
+      "streamUrl": "https://63df3191463ce.streamlock.net/live/ngrp:Live2.stream_all/chunklist_w1406682900_b1396000.m3u8",
+      "type":0
     },
     {
       "id": 11,
       "category":"Qatar",
       "name": "Aljazeera",
       "logoUrl": "/logos/jsc1.png",
-      "streamUrl": "https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1703299513/ei/WfWFZeX-HYOdxgKi0b2ABQ/ip/93.19.13.45/id/bNyUyrR0PHo.2/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/UWF9f-jyM3wGI7WNixgVzo-u7escmXYa2xL2IEBzjw/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AJfQdSswRQIhAIn84TU51cwLXd3PXzPL77uKdv7GfY_f-d96WaPYl-hsAiB5i5BXAu6zGyMaT5v-5lAI3XLcXXC7zMtj5Q8AaDNF5w%3D%3D/file/index.m3u8"
+      "streamUrl": "https://live-hls-web-aja-fa.getaj.net/AJA/01.m3u8",
+      "type":0
     },
     {
       "id": 12,
       "category":"Saudi",
       "name": "Alarabia Busness",
       "logoUrl": "/logos/alarabiabusness.png",
-      "streamUrl": "https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1703299818/ei/ivaFZcSoK5CFmLAP3_WNyAI/ip/93.19.13.45/id/mmzoljTwtno.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/UWF9fwWF0Bb4UhIB0Qk1Z1wpJ_ir5olJHcCNfZ1p9Q/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AJfQdSswRgIhAIfIz1HHlkYsjIKlq7FbHHGSjHyFw8te-6IxZSgd2u-IAiEAnSXQbjWbch4OIVmRGX0mUfNFUxDagQII9oatzSi7C1E%3D/file/index.m3u8"
+      "streamUrl": "https://live.alarabiya.net/alarabiapublish/aswaaq.smil/alarabiapublish/aswaaq_source/chunks.m3u8",
+      "type":0
     },
     {
       "id": 13,
       "category":"Palestine",
       "name": "Alhiwar Tv",
       "logoUrl": "/logos/alhiwartv.png",
-      "streamUrl": "https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1703299998/ei/PveFZZywAdfXxN8P2JWo2A0/ip/93.19.13.45/id/VgnzFDIPxrU.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/UWF9f3k-sME8kcsQNkkT2UaQPUalcxawVreKzp8okg/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AJfQdSswRgIhANv0vjENRqaNUu2OwQOmIPb-vSRTZB01dcH6syn0f9gqAiEAn_kQbvh3PUFspaFHO04nkhRwXPty1PyEgMAM0TSu6T8%3D/file/index.m3u8"
+      "streamUrl": "https://mn-nl.mncdn.com/alhiwar_live/smil:alhiwar.smil/chunklist_b464000.m3u8",
+      "type":0
     },
     {
       "id": 14,
       "category":"France",
       "name": "France 24 ar",
       "logoUrl": "/logos/france24.png",
-      "streamUrl": "https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1703301115/ei/m_uFZfaAGNa3vdIPrY-_gAo/ip/93.19.13.45/id/VuYzy8IuT0Y.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/UWF9f13IPfPdGRcHiwp4fbS0z6YsSPACEas1LXw-rQ/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AJfQdSswRQIhAIXdGFIV1ntDvYYC70m3v4POB4UCsKe5mpiNzGNZcDs0AiAMVQSLRYapDCqeB0Xrfe7Hm4SHSrA-WFqOil0U34b9Zw%3D%3D/file/index.m3u8"
+      "streamUrl": "",
+      "type":1
     },
     {
       "id": 15,
       "category":"Emirate",
       "name": "Skynews Arabia",
       "logoUrl": "/logos/skynewsarabic.png",
-      "streamUrl": "https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1703303444/ei/tASGZdbILa32mLAP1pq7-A4/ip/93.19.13.45/id/me1fBxx9wJY.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/UWF9f19GPxPLinyy4R2Dl0qBKrNI0PEpFlLPCtPkkg/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AJfQdSswRAIgO4eoCHqPdeiUN0rS9DpOL5LKuZb_0LdMGMqpe2aPQqgCIDHHBFbcrZ_h09B1vDELGDxwK_HEsvT2OPyFyrTlme-2/file/index.m3u8"
-	},
+      "streamUrl": "",
+      "type":1
+    },
     {
       "id": 16,
       "category":"Qatar",
       "name": "Alarabi",
       "logoUrl": "/logos/alarabi.png",
-      "streamUrl": "https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1703303804/ei/HAaGZdSzLIKAp-oPtf6koAc/ip/93.19.13.45/id/e2RgSa1Wt5o.2/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/UWF9f_rgI3WZOJ0ZXZh2XgDFINuA6Sb4pALn12tAzw/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AJfQdSswRQIhAKEYWTTcpBCVxx6vg5HTH11zDiqZI4Ix2b6nniFqaIOcAiBaPjDn_GVqcK18-JQPtINg0--FXwtmdlCAazk9bnYbsw%3D%3D/file/index.m3u8"
-	}
+      "streamUrl": "",
+      "type":1
+    }
   ]
 }
