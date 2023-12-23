@@ -135,7 +135,7 @@
       "category":"France",
       "name": "France 24 ar",
       "logoUrl": "/logos/france24.png",
-      "streamUrl": "",
+      "streamUrl": "l8PMl7tUDIE",
       "type":1
     },
     {
@@ -143,7 +143,7 @@
       "category":"Emirate",
       "name": "Skynews Arabia",
       "logoUrl": "/logos/skynewsarabic.png",
-      "streamUrl": "",
+      "streamUrl": "l8PMl7tUDIE",
       "type":1
     },
     {
@@ -151,7 +151,7 @@
       "category":"Qatar",
       "name": "Alarabi",
       "logoUrl": "/logos/alarabi.png",
-      "streamUrl": "",
+      "streamUrl": "l8PMl7tUDIE",
       "type":1
     }
   ]
