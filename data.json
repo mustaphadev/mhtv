@@ -27,7 +27,7 @@
   },
   "list":[
     {
-      "id": 1,
+      "id": 10,
       "category":"Maroc",
       "name": "Aloula",
       "logoUrl": "/logos/aloula.png",
@@ -35,7 +35,7 @@
       "type":0
     },
     {
-      "id": 2,
+      "id": 20,
       "category":"Maroc",
       "name": "Tamazight",
       "logoUrl": "/logos/tamazight.png",
@@ -43,7 +43,7 @@
       "type":0
     },
     {
-      "id": 3,
+      "id": 30,
       "category":"Maroc",
       "name": "Arryadia",
       "logoUrl": "/logos/arryadia.png",
@@ -51,7 +51,7 @@
       "type":0
     },
     {
-      "id": 4,
+      "id": 40,
       "category":"Maroc",
       "name": "Almaghribia",
       "logoUrl": "/logos/almaghribia.png",
@@ -59,7 +59,7 @@
       "type":0
     },
     {
-      "id": 5,
+      "id": 50,
       "category":"Maroc",
       "name": "Assadissa",
       "logoUrl": "/logos/assadissa.png",
@@ -67,7 +67,7 @@
       "type":0
     },
     {
-      "id": 6,
+      "id": 60,
       "category":"Maroc",
       "name": "Athaqafia",
       "logoUrl": "/logos/athaqafia.png",
@@ -75,7 +75,7 @@
       "type":0
     },
     {
-      "id": 7,
+      "id": 70,
       "category":"Maroc",
       "name": "Laayoun",
       "logoUrl": "/logos/laayoun.png",
@@ -83,7 +83,7 @@
       "type":0
     },
     {
-      "id": 8,
+      "id": 80,
       "category":"Maroc",
       "name": "2M",
       "logoUrl": "/logos/2m.png",
@@ -91,7 +91,7 @@
       "type":0
     },
     {
-      "id": 9,
+      "id": 90,
       "category":"Maroc",
       "name": "Medi1",
       "logoUrl": "/logos/medi1.png",
@@ -99,7 +99,7 @@
       "type":0
     },
     {
-      "id": 10,
+      "id": 100,
       "category":"Maroc",
       "name": "M24",
       "logoUrl": "/logos/m24.png",
@@ -107,23 +107,15 @@
       "type":0
     },
     {
-      "id": 11,
+      "id": 110,
       "category":"Qatar",
       "name": "Aljazeera",
       "logoUrl": "/logos/jsc1.png",
       "streamUrl": "https://live-hls-web-aja-fa.getaj.net/AJA/01.m3u8",
       "type":0
     },
-    {
-      "id": 12,
-      "category":"Saudi",
-      "name": "Alarabia Busness",
-      "logoUrl": "/logos/alarabiabusness.png",
-      "streamUrl": "https://live.alarabiya.net/alarabiapublish/aswaaq.smil/alarabiapublish/aswaaq_source/chunks.m3u8",
-      "type":0
-    },
-    {
-      "id": 13,
+	{
+      "id": 120,
       "category":"Palestine",
       "name": "Alhiwar Tv",
       "logoUrl": "/logos/alhiwartv.png",
@@ -131,27 +123,75 @@
       "type":0
     },
     {
-      "id": 14,
+      "id": 130,
+      "category":"Saudi",
+      "name": "Alcharq",
+      "logoUrl": "/logos/alcharq.png",
+      "streamUrl": "https://bcovlive-a.akamaihd.net/0b75ef0a49e24704a4ca023d3a82c2df/ap-south-1/6203311941001/profile_2/chunklist.m3u8",
+      "type":0
+    },
+	{
+      "id": 140,
+      "category":"Saudi",
+      "name": "Alquran Alkarim",
+      "logoUrl": "/logos/alquran_sa.png",
+      "streamUrl": "PEmRPDJ9I8M",
+      "type":1
+    },
+	{
+      "id": 150,
+      "category":"Saudi",
+      "name": "Alsunna Nabawia",
+      "logoUrl": "/logos/alsunna_sa.png",
+      "streamUrl": "VTRjcZQFx6k",
+      "type":1
+    },
+    {
+      "id": 160,
+      "category":"Saudi",
+      "name": "Alarabia Busness",
+      "logoUrl": "/logos/alarabiabusness.png",
+      "streamUrl": "https://live.alarabiya.net/alarabiapublish/aswaaq.smil/alarabiapublish/aswaaq_source/chunks.m3u8",
+      "type":0
+    },
+    {
+      "id": 170,
+      "category":"Saudi",
+      "name": "Alarabia",
+      "logoUrl": "/logos/alarabia.png",
+      "streamUrl": "https://live.alarabiya.net/alarabiapublish/alarabiya.smil/alarabiapublish/alarabiya_360p/chunks.m3u8",
+      "type":0
+    },
+    {
+      "id": 180,
       "category":"France",
       "name": "France 24 ar",
       "logoUrl": "/logos/france24.png",
-      "streamUrl": "l8PMl7tUDIE",
+      "streamUrl": "VuYzy8IuT0Y",
       "type":1
     },
     {
-      "id": 15,
+      "id": 190,
       "category":"Emirate",
       "name": "Skynews Arabia",
       "logoUrl": "/logos/skynewsarabic.png",
-      "streamUrl": "l8PMl7tUDIE",
+      "streamUrl": "me1fBxx9wJY",
       "type":1
     },
     {
-      "id": 16,
+      "id": 200,
       "category":"Qatar",
       "name": "Alarabi",
       "logoUrl": "/logos/alarabi.png",
-      "streamUrl": "l8PMl7tUDIE",
+      "streamUrl": "e2RgSa1Wt5o",
+      "type":1
+    },
+    {
+      "id": 300,
+      "category":"UK",
+      "name": "Euronews Fr",
+      "logoUrl": "/logos/euronews.png",
+      "streamUrl": "NiRIbKwAejk",
       "type":1
     }
   ]
