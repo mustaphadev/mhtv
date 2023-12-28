@@ -265,6 +265,30 @@
       "logoUrl": "/logos/earthtv.png",
       "streamUrl": "buAV1t5-23w",
       "type":1
+    },
+    {
+      "id": 370,
+      "category":"KSA",
+      "name": "Saad Tv",
+      "logoUrl": "/logos/saadtv.png",
+      "streamUrl": "https://www.enterweb.tv:25463/live/ssadtv/live-tv/1.m3u8",
+      "type":0
+    },
+    {
+      "id": 380,
+      "category":"KSA",
+      "name": "Makkah TV",
+      "logoUrl": "/logos/makkahtv.png",
+      "streamUrl": "https://media2.streambrothers.com:1936/8122/8122/chunklist_w1526834654.m3u8",
+      "type":0
+    },
+    {
+      "id": 390,
+      "category":"KSA",
+      "name": "Zad TV",
+      "logoUrl": "/logos/zadtv.png",
+      "streamUrl": "RBnEFa8Z5VU",
+      "type":1
     }
   ]
 }
