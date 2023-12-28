@@ -233,6 +233,14 @@
       "logoUrl": "/logos/trtarabic.png",
       "streamUrl": "https://tv-trtarabi.live.trt.com.tr/master_1080.m3u8",
       "type":0
+    },
+    {
+      "id": 330,
+      "category":"USA",
+      "name": "Nat Geo Wild",
+      "logoUrl": "/logos/natgeowild.png",
+      "streamUrl": "JHZBSCBCqpA",
+      "type":1
     }
   ]
 }
