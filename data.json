@@ -165,10 +165,10 @@
     {
       "id": 170,
       "category":"Saudi",
-      "name": "Alarabia",
-      "logoUrl": "/logos/alarabia.png",
-      "streamUrl": "https://live.alarabiya.net/alarabiapublish/alarabiya.smil/alarabiapublish/alarabiya_360p/chunks.m3u8",
-      "type":0
+      "name": "Alekhbariya",
+      "logoUrl": "/logos/saudinewstv.png",
+      "streamUrl": "4xSTtiK6U7U",
+      "type":1
     },
     {
       "id": 180,
