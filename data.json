@@ -257,6 +257,14 @@
       "logoUrl": "/logos/natgeokids.png",
       "streamUrl": "zuy5N_mhVDc",
       "type":1
+    },
+    {
+      "id": 360,
+      "category":"USA",
+      "name": "Earth Tv",
+      "logoUrl": "/logos/earthtv.png",
+      "streamUrl": "buAV1t5-23w",
+      "type":1
     }
   ]
 }
