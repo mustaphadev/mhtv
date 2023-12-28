@@ -107,6 +107,14 @@
       "type":0
     },
     {
+      "id": 105,
+      "category":"Maroc",
+      "name": "Télé Maroc",
+      "logoUrl": "/logos/telemaroc.png",
+      "streamUrl": "https://playback.akamaized.net/streams/27130247_9197096_lsijlr4ww9vpptpezkz_1/media/27130247_9197096_lsijlr4ww9vpptpezkz_1@5256000p.m3u8?dw=80&ts=1703761200&hdnts=exp=1703935714~acl=/streams/27130247_9197096_lsijlr4ww9vpptpezkz_1/media*~hmac=55c4e40b7353de67201d0f8bf766a6956e42ff05d10a9d22c13e662a255cb3dd",
+      "type":0
+    },
+    {
       "id": 110,
       "category":"Qatar",
       "name": "Aljazeera",
