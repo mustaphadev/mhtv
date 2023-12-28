@@ -249,6 +249,14 @@
       "logoUrl": "/logos/natgeo.png",
       "streamUrl": "gsA3-3_Cl8s",
       "type":1
+    },
+    {
+      "id": 350,
+      "category":"USA",
+      "name": "Nat Geo Kids",
+      "logoUrl": "/logos/natgeokids.png",
+      "streamUrl": "zuy5N_mhVDc",
+      "type":1
     }
   ]
 }
