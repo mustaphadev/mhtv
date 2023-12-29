@@ -111,7 +111,7 @@
       "category":"Maroc",
       "name": "Télé Maroc",
       "logoUrl": "/logos/telemaroc.png",
-      "streamUrl": "https://playback.akamaized.net/streams/27130247_9197096_lsijlr4ww9vpptpezkz_1/media/27130247_9197096_lsijlr4ww9vpptpezkz_1@5256000p.m3u8?dw=80&ts=1703761200&hdnts=exp=1703935714~acl=/streams/27130247_9197096_lsijlr4ww9vpptpezkz_1/media*~hmac=55c4e40b7353de67201d0f8bf766a6956e42ff05d10a9d22c13e662a255cb3dd",
+      "streamUrl": "https://player-api.new.livestream.com/accounts/27130247/events/9197096/broadcasts/239197486.secure.m3u8?dw=80&hdnea=st=1703857009~exp=1703858809~acl=/i/27130247_9197096_lsijhu330z8f7r3j9t1_1@408068/*~hmac=b3d2ebc112a29008ee5bc7cec2b2e8928ab66b54f61472cb4eb3bd6eaf39c88a&token=658ecc9d_de0e5b39d633141d2c493f0bb6a61ad48e053d91",
       "type":0
     },
     {
