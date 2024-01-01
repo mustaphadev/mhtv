@@ -243,14 +243,6 @@
       "type":0
     },
     {
-      "id": 350,
-      "category":"France",
-      "name": "BFM Paris",
-      "logoUrl": "/logos/bfmparis.png",
-      "streamUrl": "https://mit2-cdn-edge-live02.pfd.sfr.net/bfm-ncdn-live-pal1.pfd.sfr.net/sid=054avit5jnnnfic8q010/shls/LIVE$BFM_PARIS/index.m3u8/S!d2EQaGxzX2JmbV9tUnNYSnRtNhIGVP7...8BFgyf/Level(2000000)?start=LIVE&end=END",
-      "type":0
-    },
-    {
       "id": 360,
       "category":"USA",
       "name": "Earth Tv",
