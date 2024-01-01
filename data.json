@@ -99,14 +99,6 @@
       "type":0
     },
     {
-      "id": 105,
-      "category":"Maroc",
-      "name": "Télé Maroc",
-      "logoUrl": "/logos/telemaroc.png",
-      "streamUrl": "https://player-api.new.livestream.com/accounts/27130247/events/9197096/broadcasts/239226191.secure.m3u8?dw=14400&hdnea=st%3D1703929934~exp%3D1703931734~acl%3D%2Fi%2F27130247_9197096_lsiyupsy8c06s8k3s2s_1%40447309%2F%2A~hmac%3D121f5a9d40fec59ef9946a79b8c4c98cfbd9e5cf75781265ec210ec9caf22d8f&token=658fe97a_3c96d78a29ca9e4f7abc9e1016f7fa77cb53e77d",
-      "type":0
-    },
-    {
       "id": 110,
       "category":"Qatar",
       "name": "Aljazeera",
