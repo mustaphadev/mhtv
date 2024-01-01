@@ -219,28 +219,36 @@
       "type":0
     },
     {
+      "id": 322,
+      "category":"Russia",
+      "name": "RT Arabic",
+      "logoUrl": "/logos/rtarabic.png",
+      "streamUrl": "https://salam-2-16.rutube.ru/dive/river-5-514.rutube.ru/0j3NFqOhD7abtMvXFtOxrw/stream/genetta-332.m9.rutube.ru/uS2r6PlZbyzvBT5cbL9i-g/1704706208/1bf2ee9dc3e20b4cb5a7ed4833bd7cb2/720p_stream.m3u8",
+      "type":0
+    },
+    {
       "id": 330,
-      "category":"USA",
-      "name": "Nat Geo Wild",
-      "logoUrl": "/logos/natgeowild.png",
-      "streamUrl": "BJ3Yv572V1A",
-      "type":1
+      "category":"UAE",
+      "name": "Nat Geo Abu Dhabi",
+      "logoUrl": "/logos/natgeoabudhabi.png",
+      "streamUrl": "https://admdn2.cdn.mangomolo.com/nagtv/smil:nagtv.stream.smil/chunklist_b1800000_t64NzIwcA==.m3u8",
+      "type":0
     },
     {
       "id": 340,
-      "category":"USA",
-      "name": "Nat Geo",
-      "logoUrl": "/logos/natgeo.png",
-      "streamUrl": "gsA3-3_Cl8s",
-      "type":1
+      "category":"UAE",
+      "name": "Asharq Doc",
+      "logoUrl": "/logos/asharqdoc.png",
+      "streamUrl": "https://svs.itworkscdn.net/asharqdocumentarylive/asharqdocumentary.smil/asharqdocumentarypublish/asharqdocumentary_source/chunks_dvr.m3u8",
+      "type":0
     },
     {
       "id": 350,
-      "category":"USA",
-      "name": "Nat Geo Kids",
-      "logoUrl": "/logos/natgeokids.png",
-      "streamUrl": "zuy5N_mhVDc",
-      "type":1
+      "category":"France",
+      "name": "BFM Paris",
+      "logoUrl": "/logos/bfmparis.png",
+      "streamUrl": "https://mit2-cdn-edge-live02.pfd.sfr.net/bfm-ncdn-live-pal1.pfd.sfr.net/sid=054avit5jnnnfic8q010/shls/LIVE$BFM_PARIS/index.m3u8/S!d2EQaGxzX2JmbV9tUnNYSnRtNhIGVP7...8BFgyf/Level(2000000)?start=LIVE&end=END",
+      "type":0
     },
     {
       "id": 360,
