@@ -187,14 +187,6 @@
       "type":0
     },
     {
-      "id": 210,
-      "category":"Algeria",
-      "name": "Almagharibia",
-      "logoUrl": "/logos/almagharibia.png",
-      "streamUrl": "nUoCLUir2fQ",
-      "type":1
-    },
-    {
       "id": 300,
       "category":"UK",
       "name": "Euronews Fr",
@@ -224,14 +216,6 @@
       "name": "RT Arabic",
       "logoUrl": "/logos/rtarabic.png",
       "streamUrl": "https://salam-2-16.rutube.ru/dive/river-5-514.rutube.ru/0j3NFqOhD7abtMvXFtOxrw/stream/genetta-332.m9.rutube.ru/uS2r6PlZbyzvBT5cbL9i-g/1704706208/1bf2ee9dc3e20b4cb5a7ed4833bd7cb2/720p_stream.m3u8",
-      "type":0
-    },
-    {
-      "id": 330,
-      "category":"UAE",
-      "name": "Nat Geo Abu Dhabi",
-      "logoUrl": "/logos/natgeoabudhabi.png",
-      "streamUrl": "https://admdn2.cdn.mangomolo.com/nagtv/smil:nagtv.stream.smil/chunklist_b1800000_t64NzIwcA==.m3u8",
       "type":0
     },
     {
