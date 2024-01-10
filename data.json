@@ -115,6 +115,14 @@
       "type":1
     },
     {
+      "id": 125,
+      "category":"Algerie",
+      "name": "Almagharibia Tv",
+      "logoUrl": "/logos/almagharibia.png",
+      "streamUrl": "HHxcE6Y2m98",
+      "type":1
+    },
+    {
       "id": 130,
       "category":"Saudi",
       "name": "Alcharq",
@@ -227,6 +235,14 @@
       "type":0
     },
     {
+      "id": 350,
+      "category":"KSA",
+      "name": "Makkah TV",
+      "logoUrl": "/logos/makkahtv.png",
+      "streamUrl": "https://media2.streambrothers.com:1936/8122/8122/chunklist_w1526834654.m3u8",
+      "type":0
+    },
+    {
       "id": 360,
       "category":"USA",
       "name": "Earth Tv",
@@ -235,12 +251,28 @@
       "type":1
     },
     {
-      "id": 380,
-      "category":"KSA",
-      "name": "Makkah TV",
-      "logoUrl": "/logos/makkahtv.png",
-      "streamUrl": "https://media2.streambrothers.com:1936/8122/8122/chunklist_w1526834654.m3u8",
-      "type":0
+      "id": 361,
+      "category":"USA",
+      "name": "Earth Tv2",
+      "logoUrl": "/logos/earthtv.png",
+      "streamUrl": "mzCc5yX9soY",
+      "type":1
+    },
+    {
+      "id": 362,
+      "category":"USA",
+      "name": "Earth Tv3",
+      "logoUrl": "/logos/earthtv.png",
+      "streamUrl": "",
+      "type":1
+    },
+    {
+      "id": 362,
+      "category":"USA",
+      "name": "Earth Tv4",
+      "logoUrl": "/logos/earthtv.png",
+      "streamUrl": "HfgIFGbdGJ0",
+      "type":1
     }
   ]
 }
