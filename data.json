@@ -263,14 +263,6 @@
       "category":"USA",
       "name": "Earth Tv3",
       "logoUrl": "/logos/earthtv.png",
-      "streamUrl": "",
-      "type":1
-    },
-    {
-      "id": 362,
-      "category":"USA",
-      "name": "Earth Tv4",
-      "logoUrl": "/logos/earthtv.png",
       "streamUrl": "HfgIFGbdGJ0",
       "type":1
     }
