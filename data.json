@@ -235,6 +235,14 @@
       "type":0
     },
     {
+      "id": 345,
+      "category":"France",
+      "name": "BFM Busness",
+      "logoUrl": "/logos/bfmparis.png",
+      "streamUrl": "https://bdx1-cdn-edge-live00.pfd.sfr.net/bfm-ncdn-live-pal1.pfd.sfr.net/sid=01te3tlssojqfemifkq0/shls/LIVE$BFM_BUSINESS/index.m3u8/S!d2EQaGxzX2JmbV9tUnNYSnRtNhIGVP7...8BFgyf/Level(3000000)?start=LIVE&end=END",
+      "type":0
+    },
+    {
       "id": 350,
       "category":"KSA",
       "name": "Makkah TV",
