@@ -243,6 +243,14 @@
       "type":0
     },
     {
+      "id": 352,
+      "category":"KSA",
+      "name": "EmanChannel",
+      "logoUrl": "/logos/emanchannel.png",
+      "streamUrl": "https://1gr5dgmttgha1hcjugrzdoce.ourdvsss.com/pull-cdnw.anystream.uk/live/251888cb018c1000a1a47e5500000000/playlist.m3u8",
+      "type":0
+    },
+    {
       "id": 360,
       "category":"USA",
       "name": "Earth Tv",
