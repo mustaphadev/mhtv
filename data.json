@@ -252,6 +252,14 @@
     },
     {
       "id": 360,
+      "category":"FR",
+      "name": "BFM Busness",
+      "logoUrl": "/logos/bfmbusness.png",
+      "streamUrl": "https://cbv4-cdn-edge-live02.pfd.sfr.net/bfm-ncdn-live-pal1.pfd.sfr.net/sid=064to44gq0ghmsskjctg/shls/LIVE$BFM_BUSINESS/index.m3u8/S!d2EQaGxzX2JmbV9tUnNYSnRtNhIGVP7...8BFgyf/Level(4500000)?start=LIVE&end=END",
+      "type":0
+    },
+    {
+      "id": 360,
       "category":"USA",
       "name": "Earth Tv",
       "logoUrl": "/logos/earthtv.png",
