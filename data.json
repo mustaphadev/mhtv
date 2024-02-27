@@ -91,6 +91,14 @@
       "type":0
     },
     {
+      "id": 85,
+      "category":"Maroc",
+      "name": "Medi1",
+      "logoUrl": "/logos/medi1.png",
+      "streamUrl": "http://5f72f3a9b06b7.streamlock.net/live/smil:medi1ar.smil/playlist.m3u8",
+      "type":0
+    },
+    {
       "id": 100,
       "category":"Maroc",
       "name": "M24",
@@ -130,22 +138,6 @@
       "streamUrl": "https://bcovlive-a.akamaihd.net/0b75ef0a49e24704a4ca023d3a82c2df/ap-south-1/6203311941001/profile_2/chunklist.m3u8",
       "type":0
     },
-	{
-      "id": 140,
-      "category":"Saudi",
-      "name": "Alquran Alkarim",
-      "logoUrl": "/logos/alquran_sa.png",
-      "streamUrl": "moQtMet7F7w",
-      "type":1
-    },
-	{
-      "id": 150,
-      "category":"Saudi",
-      "name": "Alsunna Nabawia",
-      "logoUrl": "/logos/alsunna_sa.png",
-      "streamUrl": "Mko0sqfqjQ8",
-      "type":1
-    },
     {
       "id": 160,
       "category":"Saudi",
@@ -153,14 +145,6 @@
       "logoUrl": "/logos/alarabiabusness.png",
       "streamUrl": "https://live.alarabiya.net/alarabiapublish/aswaaq.smil/alarabiapublish/aswaaq_source/chunks.m3u8",
       "type":0
-    },
-    {
-      "id": 170,
-      "category":"Saudi",
-      "name": "Alekhbariya",
-      "logoUrl": "/logos/saudinewstv.png",
-      "streamUrl": "4xSTtiK6U7U",
-      "type":1
     },
     {
       "id": 180,
@@ -216,14 +200,6 @@
       "name": "TRT Arabic",
       "logoUrl": "/logos/trtarabic.png",
       "streamUrl": "https://tv-trtarabi.live.trt.com.tr/master_1080.m3u8",
-      "type":0
-    },
-    {
-      "id": 322,
-      "category":"Russia",
-      "name": "RT Arabic",
-      "logoUrl": "/logos/rtarabic.png",
-      "streamUrl": "https://salam-2-6.rutube.ru/dive/river-5-514.rutube.ru/d_rwXYkBDFZQOHjL-m1NWw/stream/genetta-519.ost.rutube.ru/y37oOuz1hEMszhfQSGFPRw/1708626532/1bf2ee9dc3e20b4cb5a7ed4833bd7cb2/360p_stream.m3u8",
       "type":0
     },
     {
