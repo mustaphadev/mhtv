@@ -211,6 +211,22 @@
       "type":0
     },
     {
+      "id": 345,
+      "category":"KSA",
+      "name": "Iqra TV",
+      "logoUrl": "/logos/iqratv.png",
+      "streamUrl": "https://playlist.fasttvcdn.com/pl/dlkqw1ftuvuuzkcb4pxdcg/Iqraafasttv3/playlist/0.m3u8?v=1561529645&st2=zBTDqLm-byXEoDSBJUIwng&e2=1709051319",
+      "type":0
+    },
+    {
+      "id": 347,
+      "category":"EGY",
+      "name": "Safa TV",
+      "logoUrl": "/logos/safatv.png",
+      "streamUrl": "https://cdn1.ipslow.com/tv525_www.elahmad.com_safatv/tracks-v1a1/mono.m3u8?token=abc81d402b993b6f1f5ca0256d93e5329e14adf0-eb8ea1ee887444c78252c3bf90645c65-1709040949-1709030149",
+      "type":0
+    },
+    {
       "id": 350,
       "category":"KSA",
       "name": "Makkah TV",
@@ -225,15 +241,7 @@
       "logoUrl": "/logos/emanchannel.png",
       "streamUrl": "https://1gr5dgmttgha1hcjugrzdoce.ourdvsss.com/pull-cdnw.anystream.uk/live/251888cb018c1000a1a47e5500000000/playlist.m3u8",
       "type":0
-    },
-    {
-      "id": 360,
-      "category":"FR",
-      "name": "BFM Busness",
-      "logoUrl": "/logos/bfmbusness.png",
-      "streamUrl": "https://cbv4-cdn-edge-live02.pfd.sfr.net/bfm-ncdn-live-pal1.pfd.sfr.net/sid=064to44gq0ghmsskjctg/shls/LIVE$BFM_BUSINESS/index.m3u8/S!d2EQaGxzX2JmbV9tUnNYSnRtNhIGVP7...8BFgyf/Level(4500000)?start=LIVE&end=END",
-      "type":0
-    },
+    }
     {
       "id": 360,
       "category":"USA",
