@@ -91,14 +91,6 @@
       "type":0
     },
     {
-      "id": 85,
-      "category":"Maroc",
-      "name": "Medi1",
-      "logoUrl": "/logos/medi1.png",
-      "streamUrl": "http://5f72f3a9b06b7.streamlock.net/live/smil:medi1ar.smil/playlist.m3u8",
-      "type":0
-    },
-    {
       "id": 100,
       "category":"Maroc",
       "name": "M24",
@@ -216,14 +208,6 @@
       "name": "Iqra TV",
       "logoUrl": "/logos/iqratv.png",
       "streamUrl": "https://playlist.fasttvcdn.com/pl/dlkqw1ftuvuuzkcb4pxdcg/Iqraafasttv3/playlist/0.m3u8?v=1561529645&st2=zBTDqLm-byXEoDSBJUIwng&e2=1709051319",
-      "type":0
-    },
-    {
-      "id": 347,
-      "category":"EGY",
-      "name": "Safa TV",
-      "logoUrl": "/logos/safatv.png",
-      "streamUrl": "https://cdn1.ipslow.com/tv525_www.elahmad.com_safatv/tracks-v1a1/mono.m3u8?token=abc81d402b993b6f1f5ca0256d93e5329e14adf0-eb8ea1ee887444c78252c3bf90645c65-1709040949-1709030149",
       "type":0
     },
     {
