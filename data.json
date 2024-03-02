@@ -171,6 +171,22 @@
       "type":0
     },
     {
+      "id": 210,
+      "category":"France",
+      "name": "Lemedia",
+      "logoUrl": "/logos/lemedia.jpg",
+      "streamUrl": "i_wgRQl9WW8",
+      "type":1
+    },
+    {
+      "id": 211,
+      "category":"France",
+      "name": "Franceinfo",
+      "logoUrl": "/logos/franceinfo.jpg",
+      "streamUrl": "Z-Nwo-ypKtM",
+      "type":1
+    },
+    {
       "id": 300,
       "category":"UK",
       "name": "Euronews Fr",
