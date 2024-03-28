@@ -219,6 +219,14 @@
       "type":0
     },
     {
+      "id": 341,
+      "category":"UAE",
+      "name": "Asharq Discovery",
+      "logoUrl": "/logos/asharqdiscovery.png",
+      "streamUrl": "https://svs.itworkscdn.net/asharqdiscoverylive/asharqd.smil/asharqdiscoverypublish/asharqd_source/chunks_dvr.m3u8",
+      "type":0
+    },
+    {
       "id": 345,
       "category":"KSA",
       "name": "Iqra TV",
