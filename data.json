@@ -228,10 +228,18 @@
     },
     {
       "id": 345,
-      "category":"KSA",
-      "name": "Iqra TV",
-      "logoUrl": "/logos/iqratv.png",
-      "streamUrl": "https://playlist.fasttvcdn.com/pl/dlkqw1ftuvuuzkcb4pxdcg/Iqraafasttv3/playlist/0.m3u8?v=1561529645&st2=zBTDqLm-byXEoDSBJUIwng&e2=1709051319",
+      "category":"UAE",
+      "name": "Achariqa",
+      "logoUrl": "/logos/achariqa.png",
+      "streamUrl": "https://svs.itworkscdn.net/smc1live/smc1tv.smil//smc1publish/smc1tvhd_source/chunks.m3u8",
+      "type":0
+    },
+    {
+      "id": 346,
+      "category":"UAE",
+      "name": "Achariqa2",
+      "logoUrl": "/logos/acharija2.png",
+      "streamUrl": "https://svs.itworkscdn.net/smc2live/smc2tv.smil/smc2publish/smc2tv_source/chunks.m3u8",
       "type":0
     },
     {
