@@ -111,8 +111,8 @@
       "category":"Palestine",
       "name": "Alhiwar Tv",
       "logoUrl": "/logos/alhiwartv.png",
-      "streamUrl": "tjgY-aOIkU8",
-      "type":1
+      "streamUrl": "https://mn-nl.mncdn.com/alhiwar_live/smil:alhiwar.smil/chunklist_b928000.m3u8",
+      "type":0
     },
     {
       "id": 125,
