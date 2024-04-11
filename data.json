@@ -265,6 +265,14 @@
       "logoUrl": "/logos/earthtv.png",
       "streamUrl": "buAV1t5-23w",
       "type":1
+    },
+    {
+      "id": 370,
+      "category":"FR",
+      "name": "BFM",
+      "logoUrl": "/logos/bfmparis.png",
+      "streamUrl": "https://bfmtvalive1-a.akamaihd.net/r8ef15893bf3d4c2db0105218bdfe87f4/eu-central-1/eu-central-1/876450610001/profile_0/845ff533ea5843de8ac535d8f967a171/chunklist_ssaiV.m3u8",
+      "type":0
     }
   ]
 }
