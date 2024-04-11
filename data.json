@@ -269,9 +269,25 @@
     {
       "id": 370,
       "category":"FR",
-      "name": "BFM",
+      "name": "BFM Paris",
       "logoUrl": "/logos/bfmparis.png",
+      "streamUrl": "https://tmp3-cdn-edge-live01.pfd.sfr.net/bfm-ncdn-live-pal1.pfd.sfr.net/sid=071i93oqu913iogp76gg/shls/LIVE$BFM_PARIS/index.m3u8/S!d2EQaGxzX2JmbV9tUnNYSnRtNhIGVP7...8BFgyf/Level(2000000)?start=LIVE&end=END",
+      "type":0
+    },
+    {
+      "id": 371,
+      "category":"FR",
+      "name": "BFM",
+      "logoUrl": "/logos/bfmtv.png",
       "streamUrl": "https://bfmtvalive1-a.akamaihd.net/r8ef15893bf3d4c2db0105218bdfe87f4/eu-central-1/eu-central-1/876450610001/profile_0/845ff533ea5843de8ac535d8f967a171/chunklist_ssaiV.m3u8",
+      "type":0
+    },
+    {
+      "id": 372,
+      "category":"FR",
+      "name": "BFM Busness",
+      "logoUrl": "/logos/bfmbusness.png",
+      "streamUrl": "https://bfmbusinessalive1.akamaized.net/r83ae0ed67cc245eeb3ee184cad01f768/eu-central-1/eu-central-1/876450612001/profile_0/2c2d1f1723a2438ba76e98470b463042/chunklist_ssaiV.m3u8",
       "type":0
     }
   ]
