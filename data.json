@@ -27,62 +27,6 @@
   },
   "list":[
     {
-      "id": 10,
-      "category":"Maroc",
-      "name": "Aloula",
-      "logoUrl": "/logos/aloula.png",
-      "streamUrl": "https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/al_aoula_inter/hls_snrt/al_aoula_inter-avc1_400000=4-mp4a_130400_qad=1.m3u8",
-      "type":0
-    },
-    {
-      "id": 20,
-      "category":"Maroc",
-      "name": "Tamazight",
-      "logoUrl": "/logos/tamazight.png",
-      "streamUrl": "https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/tamazight_tv8_snrt/hls_snrt/tamazight_tv8_snrt-avc1_400000=2-mp4a_130400_qad=1.m3u8",
-      "type":0
-    },
-    {
-      "id": 30,
-      "category":"Maroc",
-      "name": "Arryadia",
-      "logoUrl": "/logos/arryadia.png",
-      "streamUrl": "https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/arriadia/hls_snrt/arriadia-avc1_1500000=4-mp4a_130400_qad=1.m3u8",
-      "type":0
-    },
-    {
-      "id": 40,
-      "category":"Maroc",
-      "name": "Almaghribia",
-      "logoUrl": "/logos/almaghribia.png",
-      "streamUrl": "https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/al_maghribia_snrt/hls_snrt/al_maghribia_snrt-avc1_400000=2-mp4a_130400_qad=1.m3u8",
-      "type":0
-    },
-    {
-      "id": 50,
-      "category":"Maroc",
-      "name": "Assadissa",
-      "logoUrl": "/logos/assadissa.png",
-      "streamUrl": "https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/assadissa/hls_snrt/assadissa-avc1_400000=4-mp4a_130400_qad=1.m3u8",
-      "type":0
-    },
-    {
-      "id": 60,
-      "category":"Maroc",
-      "name": "Athaqafia",
-      "logoUrl": "/logos/athaqafia.png",
-      "streamUrl": "https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/arrabiaa/hls_snrt/arrabiaa-avc1_1500000=4-mp4a_130400_qad=1.m3u8",
-      "type":0
-    },
-    {
-      "id": 70,
-      "category":"Maroc",
-      "name": "Laayoun",
-      "logoUrl": "/logos/laayoun.png",
-      "streamUrl": "https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/al_aoula_laayoune/hls_snrt/al_aoula_laayoune-avc1_400000=2-mp4a_130400_qad=1.m3u8",
-      "type":0
-    },
-    {
       "id": 80,
       "category":"Maroc",
       "name": "2M",
@@ -119,7 +63,7 @@
       "category":"Algerie",
       "name": "Almagharibia Tv",
       "logoUrl": "/logos/almagharibia.png",
-      "streamUrl": "KnHRo6RReeI",
+      "streamUrl": "UQ3P8ezZmzg",
       "type":1
     },
     {
@@ -175,7 +119,7 @@
       "category":"France",
       "name": "Lemedia",
       "logoUrl": "/logos/lemedia.jpg",
-      "streamUrl": "i_wgRQl9WW8",
+      "streamUrl": "pO_dAyHKgDw",
       "type":1
     },
     {
@@ -207,7 +151,7 @@
       "category":"Turkeia",
       "name": "TRT Arabic",
       "logoUrl": "/logos/trtarabic.png",
-      "streamUrl": "https://tv-trtarabi.live.trt.com.tr/master_1080.m3u8",
+      "streamUrl": "https://tv-trtarabi.medya.trt.com.tr/master_1080.m3u8",
       "type":0
     },
     {
