@@ -51,6 +51,22 @@
       "type":0
     },
     {
+      "id": 340,
+      "category":"UAE",
+      "name": "Asharq Doc",
+      "logoUrl": "/logos/asharqdoc.png",
+      "streamUrl": "https://svs.itworkscdn.net/asharqdocumentarylive/asharqdocumentary.smil/asharqdocumentarypublish/asharqdocumentary_source/chunks_dvr.m3u8",
+      "type":0
+    },
+    {
+      "id": 341,
+      "category":"UAE",
+      "name": "Asharq Discovery",
+      "logoUrl": "/logos/asharqdiscovery.png",
+      "streamUrl": "https://svs.itworkscdn.net/asharqdiscoverylive/asharqd.smil/asharqdiscoverypublish/asharqd_source/chunks_dvr.m3u8",
+      "type":0
+    },
+    {
       "id": 130,
       "category":"Saudi",
       "name": "Alcharq",
@@ -67,6 +83,30 @@
       "type":0
     },
     {
+      "id": 185,
+      "category":"UAE",
+      "name": "CNBC Arabia",
+      "logoUrl": "/logos/cnbcarabia.png",
+      "streamUrl": "I-qP4xS7vPg",
+      "type":1
+    },
+    {
+      "id": 190,
+      "category":"UAE",
+      "name": "Skynews Arabia",
+      "logoUrl": "/logos/skynewsarabic.png",
+      "streamUrl": "me1fBxx9wJY",
+      "type":1
+    },
+    {
+      "id": 200,
+      "category":"Qatar",
+      "name": "Alarabi",
+      "logoUrl": "/logos/alarabi.png",
+      "streamUrl": "https://alarabyta.cdn.octivid.com/alaraby/smil:alaraby.stream.smil/chunklist_b350000.m3u8",
+      "type":0
+    },
+        {
       "id": 180,
       "category":"France",
       "name": "France 24 ar",
@@ -115,30 +155,6 @@
       "type":1
     },
     {
-      "id": 185,
-      "category":"UAE",
-      "name": "CNBC Arabia",
-      "logoUrl": "/logos/cnbcarabia.png",
-      "streamUrl": "I-qP4xS7vPg",
-      "type":1
-    },
-    {
-      "id": 190,
-      "category":"UAE",
-      "name": "Skynews Arabia",
-      "logoUrl": "/logos/skynewsarabic.png",
-      "streamUrl": "me1fBxx9wJY",
-      "type":1
-    },
-    {
-      "id": 200,
-      "category":"Qatar",
-      "name": "Alarabi",
-      "logoUrl": "/logos/alarabi.png",
-      "streamUrl": "https://alarabyta.cdn.octivid.com/alaraby/smil:alaraby.stream.smil/chunklist_b350000.m3u8",
-      "type":0
-    },
-    {
       "id": 310,
       "category":"China",
       "name": "CGTN Arabic",
@@ -152,22 +168,6 @@
       "name": "TRT Arabic",
       "logoUrl": "/logos/trtarabic.png",
       "streamUrl": "https://tv-trtarabi.medya.trt.com.tr/master_1080.m3u8",
-      "type":0
-    },
-    {
-      "id": 340,
-      "category":"UAE",
-      "name": "Asharq Doc",
-      "logoUrl": "/logos/asharqdoc.png",
-      "streamUrl": "https://svs.itworkscdn.net/asharqdocumentarylive/asharqdocumentary.smil/asharqdocumentarypublish/asharqdocumentary_source/chunks_dvr.m3u8",
-      "type":0
-    },
-    {
-      "id": 341,
-      "category":"UAE",
-      "name": "Asharq Discovery",
-      "logoUrl": "/logos/asharqdiscovery.png",
-      "streamUrl": "https://svs.itworkscdn.net/asharqdiscoverylive/asharqd.smil/asharqdiscoverypublish/asharqd_source/chunks_dvr.m3u8",
       "type":0
     },
     {
