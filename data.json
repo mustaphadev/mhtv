@@ -115,14 +115,6 @@
       "type":1
     },
     {
-      "id": 183,
-      "category":"France",
-      "name": "BSmart",
-      "logoUrl": "/logos/bsmart.jpeg",
-      "streamUrl": "3G2kbTYLSHw",
-      "type":1
-    },
-    {
       "id": 210,
       "category":"France",
       "name": "Lemedia",
@@ -176,22 +168,6 @@
       "name": "Achariqa",
       "logoUrl": "/logos/achariqa.png",
       "streamUrl": "https://svs.itworkscdn.net/smc1live/smc1tv.smil//smc1publish/smc1tvhd_source/chunks.m3u8",
-      "type":0
-    },
-    {
-      "id": 346,
-      "category":"UAE",
-      "name": "Achariqa2",
-      "logoUrl": "/logos/acharija2.png",
-      "streamUrl": "https://svs.itworkscdn.net/smc2live/smc2tv.smil/smc2publish/smc2tv_source/chunks.m3u8",
-      "type":0
-    },
-    {
-      "id": 350,
-      "category":"UAE",
-      "name": "Noor Dubai",
-      "logoUrl": "/logos/noordubai.png",
-      "streamUrl": "https://dmiffthftl.cdn.mangomolo.com/noordubaitv/smil:noordubaitv.smil/chunklist_b2400000.m3u8",
       "type":0
     },
     {
