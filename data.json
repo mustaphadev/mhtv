@@ -115,14 +115,6 @@
       "type":1
     },
     {
-      "id": 210,
-      "category":"France",
-      "name": "Lemedia",
-      "logoUrl": "/logos/lemedia.jpg",
-      "streamUrl": "pO_dAyHKgDw",
-      "type":1
-    },
-    {
       "id": 211,
       "category":"France",
       "name": "Franceinfo",
@@ -131,19 +123,11 @@
       "type":1
     },
     {
-      "id": 212,
+      "id": 210,
       "category":"France",
-      "name": "Tech&Co",
-      "logoUrl": "/logos/tech&co.jpeg",
-      "streamUrl": "tBogvOwzskg",
-      "type":1
-    },
-    {
-      "id": 300,
-      "category":"UK",
-      "name": "Euronews Fr",
-      "logoUrl": "/logos/euronews.png",
-      "streamUrl": "NiRIbKwAejk",
+      "name": "Lemedia",
+      "logoUrl": "/logos/lemedia.jpg",
+      "streamUrl": "pO_dAyHKgDw",
       "type":1
     },
     {
