@@ -43,6 +43,14 @@
       "type":0
     },
     {
+      "id": 105,
+      "category":"Maroc",
+      "name": "SNRTNEWS",
+      "logoUrl": "/logos/snrtnews.jpg",
+      "streamUrl": "HU-2YxiRMVI",
+      "type":1
+    },
+    {
       "id": 110,
       "category":"Qatar",
       "name": "Aljazeera",
