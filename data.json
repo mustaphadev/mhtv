@@ -75,6 +75,14 @@
       "type":0
     },
     {
+      "id": 140,
+      "category":"Turkeia",
+      "name": "TRT Arabic",
+      "logoUrl": "/logos/trtarabic.png",
+      "streamUrl": "https://tv-trtarabi.medya.trt.com.tr/master_1080.m3u8",
+      "type":0
+    },
+    {
       "id": 160,
       "category":"Saudi",
       "name": "Alarabia Busness",
@@ -127,7 +135,7 @@
       "category":"France",
       "name": "Lemedia",
       "logoUrl": "/logos/lemedia.jpg",
-      "streamUrl": "pO_dAyHKgDw",
+      "streamUrl": "tb1nfvS_RVU",
       "type":1
     },
     {
@@ -136,14 +144,6 @@
       "name": "CGTN Arabic",
       "logoUrl": "/logos/cgtnarabic.png",
       "streamUrl": "https://arabic-livews.cgtn.com/hls/LSveq57bErWLinBnxosqjisZ220802LSTefTAS9zc9mpU08y3np9TH220802cd/playlist.m3u8",
-      "type":0
-    },
-    {
-      "id": 320,
-      "category":"Turkeia",
-      "name": "TRT Arabic",
-      "logoUrl": "/logos/trtarabic.png",
-      "streamUrl": "https://tv-trtarabi.medya.trt.com.tr/master_1080.m3u8",
       "type":0
     },
     {
