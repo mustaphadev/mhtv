@@ -114,7 +114,15 @@
       "streamUrl": "https://alarabyta.cdn.octivid.com/alaraby/smil:alaraby.stream.smil/chunklist_b350000.m3u8",
       "type":0
     },
-        {
+    {
+      "id": 205,
+      "category":"KSA",
+      "name": "IqraaTv",
+      "logoUrl": "/logos/iqratv.png",
+      "streamUrl": "https://iqraa-live.ercdn.net/iqraa/iqraa_576p.m3u8",
+      "type":0
+    },
+    {
       "id": 180,
       "category":"France",
       "name": "France 24 ar",
