@@ -163,6 +163,14 @@
       "type":0
     },
     {
+      "id": 215,
+      "category":"France",
+      "name": "France inter",
+      "logoUrl": "/logos/franceinfo.jpg",
+      "streamUrl": "https://raw.githubusercontent.com/Sibprod/streams/main/ressources/dm/py/hls/franceinter.m3u8",
+      "type":0
+    },
+    {
       "id": 310,
       "category":"China",
       "name": "CGTN Arabic",
